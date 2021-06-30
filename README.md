@@ -38,7 +38,7 @@ ubuntu@ip-172-31-6-200:~/terraform$ terraform init
 # run test
 '''
 $ terraform plan
-''''
+'''
 
 # run implement
 ubuntu@ip-172-31-6-200:~/terraform$ terraform apply
